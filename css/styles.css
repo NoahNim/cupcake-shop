@@ -2,3 +2,13 @@
   font-style: italic;
   color: #ed0000;
 }
+
+.best {
+  color: #c100ed;
+  font-size: 21px;
+  font-weight: bolder;
+}
+
+body {
+  text-align: center;
+}
